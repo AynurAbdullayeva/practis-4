@@ -1,0 +1,48 @@
+.icon {
+  border: 1px solid red;
+  border-radius: 50%;
+  width: 150px;
+  height: 140px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+.icon:hover {
+  background-color: red;
+  transition: 0.3s;
+}
+.bizpro {
+  margin-top: 10%;
+}
+.hdtxt {
+  margin-top: 5%;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.detailbtn {
+  margin-top: 5%;
+  padding: 15px 25px;
+  background-color: transparent;
+  border: 1px solid red;
+  color: rgb(75, 73, 73);
+}
+.detailbtn:hover {
+  background-color: red;
+}
+.part2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.bizpro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10%;
+}
